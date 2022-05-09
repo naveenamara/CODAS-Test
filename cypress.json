@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.codas.com",
+
+    "testFiles": "**/*.feature",
+    "pageLoadTimeout": 20000,
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false
+}
