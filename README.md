@@ -12,7 +12,7 @@ Step 1: Open the 'CODAS' Automation project on an IDE (This README file has been
 
 - Open a new Terminal on your IDE and type in the command:
 
-     - npm install
+     - npm init
 
 This should restore any missing dependencies (For Reference, see Package.json file.
 
